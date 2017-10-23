@@ -14,6 +14,7 @@
 
 		Pass
 		{
+			Blend SrcAlpha One
 			CGPROGRAM
 			#pragma vertex vert
 			#pragma fragment frag
